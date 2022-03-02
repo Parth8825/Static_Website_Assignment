@@ -1,0 +1,34 @@
+article h1 { 
+    text-align: center;
+    font-size: 140%;
+    border-bottom: 2px solid black;
+	margin-bottom: 2em;
+}
+
+label {
+	float: left;
+	width: 6em;
+	text-align: right;
+}
+input {
+	margin-left: 1em;
+	margin-bottom: .5em;
+	width: 25em;
+}
+#option{
+    margin-left: 1em;
+	margin-bottom: .5em;
+	width: 25em;
+}
+textarea{
+    
+	margin-bottom: .5em;
+	width: 25em;
+}
+#button {
+	margin-top: .5em;
+	margin-left: 7em;
+	width: 8em;
+	background-color: grey;
+	border: 2px solid black;
+}
